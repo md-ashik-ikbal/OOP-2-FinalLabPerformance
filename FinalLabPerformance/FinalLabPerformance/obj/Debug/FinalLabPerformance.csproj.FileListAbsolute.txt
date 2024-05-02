@@ -1,0 +1,16 @@
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\FinalLabPerformance\FinalLabPerformance\bin\Debug\FinalLabPerformance.exe.config
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\FinalLabPerformance\FinalLabPerformance\bin\Debug\FinalLabPerformance.exe
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\FinalLabPerformance\FinalLabPerformance\bin\Debug\FinalLabPerformance.pdb
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\FinalLabPerformance\FinalLabPerformance\bin\Debug\MaterialSkin.dll
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\FinalLabPerformance\FinalLabPerformance\obj\Debug\FinalLabPerformance.csproj.AssemblyReference.cache
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\FinalLabPerformance\FinalLabPerformance\obj\Debug\FinalLabPerformance.Form1.resources
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\FinalLabPerformance\FinalLabPerformance\obj\Debug\FinalLabPerformance.Properties.Resources.resources
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\FinalLabPerformance\FinalLabPerformance\obj\Debug\FinalLabPerformance.csproj.GenerateResource.cache
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\FinalLabPerformance\FinalLabPerformance\obj\Debug\FinalLabPerformance.csproj.CoreCompileInputs.cache
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\FinalLabPerformance\FinalLabPerformance\obj\Debug\FinalLab.1D9CDE8B.Up2Date
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\FinalLabPerformance\FinalLabPerformance\obj\Debug\FinalLabPerformance.exe
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\FinalLabPerformance\FinalLabPerformance\obj\Debug\FinalLabPerformance.pdb
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\FinalLabPerformance\FinalLabPerformance\obj\Debug\FinalLabPerformance.Form2.resources
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\FinalLabPerformance\FinalLabPerformance\obj\Debug\FinalLabPerformance.Form3.resources
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\FinalLabPerformance\FinalLabPerformance\obj\Debug\FinalLabPerformance.Delete.resources
+C:\Users\MD. ASHIK IKBAL\Desktop\C#\FinalLabPerformance\FinalLabPerformance\obj\Debug\FinalLabPerformance.DeleteUserDialogue.resources
